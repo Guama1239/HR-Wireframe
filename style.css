@@ -33,6 +33,14 @@ section{
     color: #777;
 }
 
+article{
+    /*float:?;
+    widht: ?*/
+    height: 130px;
+    margin-left: auto;
+    color:#ebebeb;
+    background-color:#777; 
+}
 aside{
     float:left;
     margin-left: 20px;
@@ -44,6 +52,8 @@ aside{
     border: none;
     color: #777;
 }
+
+
 
 footer{
     clear:both;
